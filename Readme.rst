@@ -10,7 +10,7 @@ Live Demo
 
 https://kumala.zdienos.com
 
-user: admin
+user: admin 
 pass: asdasd
 
 
