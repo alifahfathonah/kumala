@@ -8,7 +8,10 @@ Kumala adalah sample atau project testing Kumala Group
 Live Demo
 *******************
 
-https://kumala.zdienos.com>
+https://kumala.zdienos.com
+
+user: admin
+pass: asdasd
 
 
 *******************
