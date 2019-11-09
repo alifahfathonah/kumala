@@ -3401,3 +3401,7 @@ div.dataTables_info {
     width: 1170px;
   }
 }
+
+thead, th {text-align: center;}
+.table thead,
+.table th {text-align: center;}
